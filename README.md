@@ -1,3 +1,3 @@
 ### Greetings 🐳
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jjimenezgarcia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jjimenezgarcia&theme=matrix&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
