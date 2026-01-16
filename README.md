@@ -1,3 +1,6 @@
-### Greetings 🐳
+# 雷の呼吸・漆ノ型 火雷神
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jjimenezgarcia&theme=matrix&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="assets/zenitsu.gif" width="100%" />
+</p>
+
