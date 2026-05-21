@@ -4,3 +4,4 @@
   <img src="assets/zenitsu.gif" width="75%" />
 </p>
 
+![HTB Card](./assets/htb-card.svg)
