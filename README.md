@@ -1,4 +1,4 @@
-![HTB Card](./assets/htb-card.svg)
+![HTB Card](./assets/htb-card.svg?v=2)
 
 <h1 align="center">雷の呼吸・漆ノ型 火雷神</h1>
 
